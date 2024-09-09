@@ -1,0 +1,46 @@
+Login log 
+
+Login date: 03/06/2022 20:08:22
+Login date: 03/06/2022 20:09:03
+Login date: 05/06/2022 19:34:39Maria
+Login date: 05/06/2022 19:36:01Carlos
+Login date: 05/06/2022 19:41:26 Usuário: Maria Saldo: System.Collections.Generic.List`1[System.Single]
++12 +34 -23 +23 +34
+Login date: 05/06/2022 19:44:23 Usuário: Amanda Saldo: System.Collections.Generic.List`1[System.Single]
+System.Collections.Generic.List`1[System.String]
+Login date: 05/06/2022 19:54:35 Usuário: Maria Saldo: System.Collections.Generic.List`1[System.Single]
+System.Collections.Generic.List`1[System.String]
+Login date: 05/06/2022 19:54:50 Usuário: Maria Saldo: System.Collections.Generic.List`1[System.Single]
+System.Collections.Generic.List`1[System.String]
+Login date: 05/06/2022 19:58:26 Usuário: Maria Saldo: System.Collections.Generic.List`1[System.Single]
+System.Collections.Generic.List`1[System.String]
+Login date: 05/06/2022 19:58:35 Usuário: Maria Saldo: System.Collections.Generic.List`1[System.Single]
+System.Collections.Generic.List`1[System.String]
+Login date: 05/06/2022 19:59:51 Usuário: Maria Saldo: System.Collections.Generic.List`1[System.Single]
++12 Operações: +23 Operações: +23 Operações: -23
+Login date: 05/06/2022 20:03:55 Usuário: Maria Saldo: System.Collections.Generic.List`1[System.Single]
+Operações: System.Collections.Generic.List`1[System.String]
+Login date: 05/06/2022 21:43:41 Usuário: Maria Saldo: 65
+Operações: System.Collections.Generic.List`1[System.String]
+Login date: 05/06/2022 21:44:10 Usuário: Carlos Saldo: 68
+Operações: System.Collections.Generic.List`1[System.String]
+Login date: 05/06/2022 21:46:07 Usuário: Maria Saldo: 48
++12 
+ Operações: +34 
+ Operações: -21 
+ Operações: +23
+Login date: 05/06/2022 21:46:39 Usuário: Carlos Saldo: 23056
++12 
+ Operações: +34 
+ Operações: -21 
+ Operações: +23 
+ Operações: +12 
+ Operações: +23 
+ Operações: +23234 
+ Operações: -213
+ Login date: 05/06/2022 21:49:18 Usuário: Maria Saldo: 48
+Operações: System.Collections.Generic.List`1[System.String]Login date: 05/06/2022 21:50:27 Usuário: Maria Saldo: 46
+Operações: 
+System.Collections.Generic.List`1[System.String]
+Login date: 05/06/2022 21:52:33 Usuário: Maria Saldo: 58
+Operações: System.Collections.Generic.List`1[System.String]
